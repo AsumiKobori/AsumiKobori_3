@@ -42,7 +42,9 @@ h1 {
     padding: 10px;
 }
 
-li {
+.S1,
+.S2,
+.S3 {
     background-color: #fff;
     width: 30%;
 }
